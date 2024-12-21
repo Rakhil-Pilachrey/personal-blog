@@ -1,5 +1,10 @@
 name: Jekyll Themes
-url: http://matt.harzewski.com
+url: https://rakhil-1408.github.io
+baseurl: /personal-blog
+title: CloudOpsKube Blog
+email: rakhilravindran007@gmail.com
+author: Rakhil Ravindran
+
 description: Insert tagline here
 
 permalink: /themes/:title/
